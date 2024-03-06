@@ -1,11 +1,4 @@
 # Space-Missions-Analysis
-
-Certainly! Here's a description for your space mission analysis project:
-
----
-
-**Project Title: Space Mission Analysis**
-
 **Description:**
 
 The Space Mission Analysis project delved into the exploration and visualization of space mission data, aiming to derive insights into mission success rates, trends, and cost-effectiveness. The project encompassed transforming raw data using pandas and Excel, creating informative visualizations and dashboards with key performance indicators (KPIs), and generating a comprehensive report based on the findings.
